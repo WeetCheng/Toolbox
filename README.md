@@ -7,5 +7,5 @@ Vultr_Ping_Test_For_Windows.bat——windows上一键ping测速
 
 bench.sh——linux上一键ping测速
 
-
+ss.sh--一键配置shadowsocks
 

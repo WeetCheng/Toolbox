@@ -9,3 +9,5 @@ bench.sh——linux上一键ping测速
 
 ss.sh--一键配置shadowsocks
 
+shadowsocks--开启自启动shadowsocks服务端
+

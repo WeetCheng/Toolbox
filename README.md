@@ -11,3 +11,5 @@ ss.sh--一键配置shadowsocks
 
 shadowsocks--开启自启动shadowsocks服务端
 
+clip_image.py--windows下ctrl+C复制图片文件后转成图像数据保存到剪切板中
+
